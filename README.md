@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Md Zihad Hasan Jaan</h1>
 <h3 align="center">A passionate learner from Finland</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdzihadhasanjaan&label=Profile%20views&color=0e75b6&style=flat" alt="mdzihadhasanjaan" /> </p> 
+ <a href="https://monkeytype.com/profile/zihadhasanjaan">
+        <img src="https://raw.githubusercontent.com/mdzihadhasanjaan/mdzihadhassanjaan/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
+    </a>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdzihadhasanjaan&label=Profile%20views&color=0e75b6&style=flat" alt="mdzihadhasanjaan" /> </p>
