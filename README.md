@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdzihadhasanjaan" alt="mdzihadhasanjaan" /></a> </p>
 <hr>
-<img align="bottom" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div style="background-color: brown;">
 - 🌱 I’m currently learning **C#, HTML, CSS**
 
 - 💬 Ask me about **C#, HTML, CSS**
@@ -14,6 +14,7 @@
 - 📫 How to reach me **mdzihadhasanjaan@gmail.com**
 
 - ⚡ Fun fact **I think I am mad.**
+  </div>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
