@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdzihadhasanjaan" alt="mdzihadhasanjaan" /></a> </p>
 
-https://github-profile-trophy.vercel.app/?username=mdzihadhasanjaan"ryo-ma&no-bg=true
-
 <hr>
 
 - 🌱 I’m currently learning **C#, HTML, CSS**
