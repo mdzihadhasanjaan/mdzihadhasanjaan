@@ -1,5 +1,19 @@
 <h1 align="center">Hi 👋, I'm Md Zihad Hasan Jaan</h1>
-<h3 align="center">The worthless boy from Finland</h3>
+<h3 align="center">Sure, here's a shorter and more unique version for your GitHub bio:
+
+---
+
+🛡️ Cybersecurity Enthusiast | Ethical Hacker in Training 💻
+
+🔍 Exploring vulnerabilities, securing networks, and defending digital landscapes.
+
+🌐 Passionate about open-source security and ethical hacking.
+
+👨‍💻 Let's make the internet safer together!
+
+---
+
+Feel free to adjust it as needed!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdzihadhasanjaan&label=Profile%20views&color=0e75b6&style=flat" alt="mdzihadhasanjaan" /> </p> 
  
 
