@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Zihad Hasan Jaan</h1>
-<h3 align="center">Sure, here's a shorter and more unique version for your GitHub bio:
+<h3 align="center">
 
 ---
 
