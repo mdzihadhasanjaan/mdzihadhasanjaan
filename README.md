@@ -12,8 +12,7 @@
 👨‍💻 Let's make the internet safer together!
 
 ---
-
-Feel free to adjust it as needed!</h3>
+</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdzihadhasanjaan&label=Profile%20views&color=0e75b6&style=flat" alt="mdzihadhasanjaan" /> </p> 
  
 
