@@ -16,7 +16,7 @@ Let’s build a secure and resilient digital future together.
 -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdzihadhasanjaan&label=Profile%20views&color=006400&style=flat" alt="mdzihadhasanjaan" /> </p> 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdzihadhasanjaan&theme=no-frame&column=4&margin-w=15&margin-h=15" alt="mdzihadhasanjaan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdzihadhasanjaan&theme=matrix&column=4&margin-w=15&margin-h=15" alt="mdzihadhasanjaan" /></a> </p>
 </p>
 
 <h3 align="left">Connect with me:</h3>
