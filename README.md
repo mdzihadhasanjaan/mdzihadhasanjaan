@@ -31,6 +31,7 @@ Let’s build a secure and resilient digital future together.
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdzihadhasanjaan&show_icons=true&locale=en&layout=compact" alt="mdzihadhasanjaan" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdzihadhasanjaan&show_icons=true&locale=en" alt="mdzihadhasanjaan" /></p><hr>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdzihadhasanjaan&" alt="mdzihadhasanjaan" /></p>
